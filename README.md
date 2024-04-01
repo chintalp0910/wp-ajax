@@ -1,1 +1,1 @@
-## WordPress Ajax example plugin
+# WordPress Ajax example plugin
