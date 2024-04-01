@@ -1,0 +1,23 @@
+table.wp-ajax-table-view,
+table.wp-ajax-table-view tr th,
+table.wp-ajax-table-view tr td,
+table.wp-ajax-table,
+.wp-ajax-table tr th,
+.wp-ajax-table tr td {
+	border:none;
+	vertical-align:top;
+}
+.wp-ajax-table #wp_ajax_post_data{
+	float:right;
+	padding:5px;
+	cursor:pointer;
+}
+#wp_ajax_loader{
+	display:none;
+	float:right;
+	margin-right:25px;
+}
+table.wp-ajax-table-view{
+	width:70%;
+}
+	
